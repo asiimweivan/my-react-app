@@ -18,6 +18,10 @@
 .env.test.local
 .env.production.local
 
+# ignored files
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# ignore index.html in public (not typically recommended)
+public/index.html

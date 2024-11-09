@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+/* Class for smaller logo */
+.App-logo-small {
+  height: 50px; /* Adjusted height */
+  width: 50px;  /* Adjusted width */
+}
